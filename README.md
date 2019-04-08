@@ -30,3 +30,6 @@ Student ID | Name
 1155100001 | Ben
 1155100002 | Cherry
 1155100003 | Doll
+
+The following is the use of Image:
+![Git push record](‪C:\git init\student-1155109132\git_push_record.jpg)
