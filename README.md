@@ -24,8 +24,9 @@ The following is the use of Task List:
 - [X] Checked task
 
 The following is the use of Table:
+
 | Student ID | Name |
-| :- | :- |
+| :--------- | :--- |
 | 1155100000 | Andy |
 | 1155100001 | Ben |
 | 1155100002 | Cherry |
