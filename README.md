@@ -24,12 +24,12 @@ The following is the use of Task List:
 - [X] Checked task
 
 The following is the use of Table:
-Student ID | Name
----------- | ----
-1155100000 | Andy
-1155100001 | Ben
-1155100002 | Cherry
-1155100003 | Doll
+| Student ID | Name |
+| ---------- | ---- |
+| 1155100000 | Andy |
+| 1155100001 | Ben |
+| 1155100002 | Cherry |
+| 1155100003 | Doll |
 
 The following is the use of Image:
-![Git push record](‪C:\git init\student-1155109132\git_push_record.jpg)
+![Git push record](git_push_record.jpg)
